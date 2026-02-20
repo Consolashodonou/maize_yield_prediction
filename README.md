@@ -133,5 +133,3 @@ yieldlens/
 Yieldlens aims to support **data-driven agriculture in Africa**, enabling farmers, researchers, and policymakers to better anticipate crop productivity.
 
 > “See the Future of Your Harvest.”
-* A version optimized for Streamlit Cloud deployment
-* Or a badge-enhanced professional GitHub version 🚀
