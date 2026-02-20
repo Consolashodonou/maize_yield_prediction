@@ -1,7 +1,8 @@
 # 🌾 Yieldlens
 
 **AI-Powered Maize Yield Prediction for Smart Farming**
-**Problem**: Maize is a critical staple crop. Inaccurate predictions hinder effective agricultural planning and resource management for millions. This project is created in the context of Women in Data Science Fellowship. program by AWARD.
+
+**Problem**: Maize is a critical staple crop. Inaccurate predictions hinder effective agricultural planning and resource management for millions. This project is created in the context of Women in Data Science Fellowship program by AWARD.
 
 Yieldlens is a **Streamlit web application** that predicts maize yield (kg/ha) using ensemble machine learning.
 The best-performing model is **CatBoost Regressor (R² ≈ 0.84)**.
